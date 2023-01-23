@@ -1,0 +1,27 @@
+[
+    {
+        
+        "type": "mazda",
+        "model": "old",
+        "year": 2004,
+        "color": "black",
+        "price": 50000,
+        "acceleration": 3,
+        "maximumSpeed": 150,
+        "description": "sports car",
+        "amount": 2
+  
+    },
+    {
+       
+        "type": "fiat",
+        "model": "new",
+        "year": 2023,
+        "color": "grey",
+        "price": 50000,
+        "acceleration": 8,
+        "maximumSpeed": 250,
+        "description": "sports car",
+        "amount": 5
+    }
+]
